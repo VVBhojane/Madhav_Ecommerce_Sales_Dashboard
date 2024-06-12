@@ -16,6 +16,8 @@ Developed an interactive Madhav Ecommerce Sales Dashboard using Power BI to trac
 
 * **Interactivity:** Enabled drill-down capabilities, slicers, and filters to allow users to explore data dynamically, including sales by category, sub-category, and payment modes.
 
+![Dashboard Screenshot]()
+
 ****Challenges and Solutions:****
 
 * Addressed data quality issues such as inconsistent date formats and missing values by implementing data cleaning and validation processes using Power Query.
@@ -25,5 +27,3 @@ Developed an interactive Madhav Ecommerce Sales Dashboard using Power BI to trac
 
 * The dashboard provided actionable insights that led to a 25% increase in sales through targeted marketing campaigns and inventory optimization.
 * Enabled the sales team to identify high-performing regions and product categories, resulting in improved resource allocation and strategic planning.
-
-
