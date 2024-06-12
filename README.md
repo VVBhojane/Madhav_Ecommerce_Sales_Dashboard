@@ -16,7 +16,7 @@ Developed an interactive Madhav Ecommerce Sales Dashboard using Power BI to trac
 
 * **Interactivity:** Enabled drill-down capabilities, slicers, and filters to allow users to explore data dynamically, including sales by category, sub-category, and payment modes.
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/VVBhojane/Madhav_Ecommerce_Sales_Dashboard/blob/main/Screenshot%202024-06-12%20091454.png)
 
 ****Challenges and Solutions:****
 
